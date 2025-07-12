@@ -4,7 +4,7 @@
 
 根据网易云歌曲ID生成含平假名注音的word歌词文档。
 
-运行需要 **.Net 8.0 Desktop Runtime**
+运行需要 [.Net 8.0 Desktop Runtime](https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.18-windows-x64-installer)
 
 访问 [Releases](https://github.com/EnableAria/CouldRubyLyric/releases) 以获得最新发行版。
 
